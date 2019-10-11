@@ -1,4 +1,17 @@
+body{
+background-color: #ecf0f1;
+}
+
 .js-clock h1{
-  font-size: 15rem;
+  font-size: 10em;
   color: #34495e;
+}
+
+.form, 
+.greetings{
+  display: none;
+}
+
+.showing {
+  display: block;
 }
